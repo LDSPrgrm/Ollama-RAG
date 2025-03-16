@@ -29,10 +29,7 @@ streamlit run app.py
 
 ## Dependencies
 
-The required dependencies are listed in `requirements.txt`. They include:
-
-- `streamlit`
-- `ollama`
+The required dependencies are listed in `requirements.txt`.
 
 ## Usage
 
